@@ -1,0 +1,13 @@
+C:\Users\mr_ho\source\repos\SamuraiApp\SamuraiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mr_ho\source\repos\SamuraiApp\SamuraiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mr_ho\source\repos\SamuraiApp\SamuraiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mr_ho\source\repos\SamuraiApp\SamuraiTests\bin\Debug\SamuraiTests.dll
+C:\Users\mr_ho\source\repos\SamuraiApp\SamuraiTests\bin\Debug\SamuraiTests.pdb
+C:\Users\mr_ho\source\repos\SamuraiApp\SamuraiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mr_ho\source\repos\SamuraiApp\SamuraiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mr_ho\source\repos\SamuraiApp\SamuraiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mr_ho\source\repos\SamuraiApp\SamuraiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mr_ho\source\repos\SamuraiApp\SamuraiTests\obj\Debug\SamuraiTests.csprojAssemblyReference.cache
+C:\Users\mr_ho\source\repos\SamuraiApp\SamuraiTests\obj\Debug\SamuraiTests.csproj.CopyComplete
+C:\Users\mr_ho\source\repos\SamuraiApp\SamuraiTests\obj\Debug\SamuraiTests.dll
+C:\Users\mr_ho\source\repos\SamuraiApp\SamuraiTests\obj\Debug\SamuraiTests.pdb
